@@ -21,7 +21,7 @@
   "homepage": "https://github.com/exercism/pr-commenter-action#readme",
   "dependencies": {
     "@actions/core": "^1.2.6",
-    "@actions/github": "^4.0.0",
+    "@actions/github": "^9.1.0",
     "js-yaml": "^4.0.0",
     "minimatch": "^3.0.4",
     "mustache": "^4.2.0"
